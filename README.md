@@ -180,4 +180,4 @@ These issues reflect common real-world data loading friction — column mismatch
 ---
 
 ## Next Steps
-This SQL environment and workflow carries forward into Project 2 (GA4 Editorial Performance Database), Project 3 (Normalized Multi-Sport Historical Database), and Project 4 (Advanced Percentile Ranking & Performance Analytics) — each building on skills established here.
+Building a database for NFL, NBA, and MLB using this same logic. 
